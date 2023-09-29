@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a Data Engineer & Analytics master degree's student
-- 📫 How to reach me: giulio.querzoli@gmail.com
+- 🌱 I’m a Data Engineer
 
 <!--
 **Giurzo/Giurzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
